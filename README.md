@@ -1,5 +1,5 @@
 # React-JS-Minimal-Setup
-A reacte JS boilerplate for setting up react js project without using the [Create-React-App](https://reactjs.org/docs/create-a-new-react-app.html)
+A reacte JS boilerplate for setting up react js project **without** using the [Create-React-App](https://reactjs.org/docs/create-a-new-react-app.html)
 
 ## This Project includes:
 
